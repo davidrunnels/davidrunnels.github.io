@@ -1,0 +1,7 @@
+--2019-02-17 13:55:32--  http://danielfischer.com/
+Resolving danielfischer.com (danielfischer.com)... 184.168.131.241
+Connecting to danielfischer.com (danielfischer.com)|184.168.131.241|:80... connected.
+HTTP request sent, awaiting response... 502 Bad Gateway
+2019-02-17 13:55:32 ERROR 502: Bad Gateway.
+
+Converted links in 0 files in 0 seconds.
